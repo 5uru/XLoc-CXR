@@ -1,0 +1,25 @@
+data:
+  root: "data/vindr_cxr"
+  image_size: 224
+  num_classes: 15
+
+model:
+  name: "resnet50"
+  pretrained: true
+
+train:
+  epochs: 30
+  batch_size: 64
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  seed: 42
+  log_interval: 10
+
+eval:
+  batch_size: 32
+  layers: ["layer3", "layer4"]
+  cam_methods: ["grad_cam", "grad_cam_plus_plus", "xgrad_cam"]
+
+output:
+  dir: "outputs"
+  checkpoint_dir: "outputs/checkpoints"

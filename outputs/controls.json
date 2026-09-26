@@ -1,0 +1,514 @@
+{
+  "global": {
+    "trained": {
+      "mean": 0.08030776408453083,
+      "std": 0.18327704522840368,
+      "n": 442
+    },
+    "untrained": {
+      "n": 442,
+      "real_mean": 0.08030776408453083,
+      "real_std": 0.18327704522840368,
+      "null_mean": 0.030634194222424478,
+      "null_std": 0.09524638435396558,
+      "p_value": 0.3602676889494833,
+      "significant": false
+    },
+    "randomized_weights": {
+      "n": 442,
+      "real_mean": 0.08030776408453083,
+      "real_std": 0.18327704522840368,
+      "null_mean": 0.023192045465696212,
+      "null_std": 0.08999496098677628,
+      "p_value": 6.172005526417804e-09,
+      "significant": true
+    },
+    "random_cam": {
+      "n": 442,
+      "real_mean": 0.08030776408453083,
+      "real_std": 0.18327704522840368,
+      "null_mean": 0.036307365660692224,
+      "null_std": 0.10526207606077398,
+      "p_value": 0.9978445982361901,
+      "significant": false
+    }
+  },
+  "per_class": {
+    "Aortic enlargement": {
+      "trained": {
+        "mean": 0.03995429765376629,
+        "std": 0.11338362981002076,
+        "n": 99
+      },
+      "untrained": {
+        "n": 99,
+        "real_mean": 0.03995429765376629,
+        "real_std": 0.11338362981002076,
+        "null_mean": 0.018428347708488054,
+        "null_std": 0.05476844506244833,
+        "p_value": 0.13058285194804897,
+        "significant": false
+      },
+      "randomized_weights": {
+        "n": 99,
+        "real_mean": 0.03995429765376629,
+        "real_std": 0.11338362981002076,
+        "null_mean": 0.0006547145616611408,
+        "null_std": 0.0012891129067440135,
+        "p_value": 3.94707876849576e-29,
+        "significant": true
+      },
+      "random_cam": {
+        "n": 99,
+        "real_mean": 0.03995429765376629,
+        "real_std": 0.11338362981002076,
+        "null_mean": 0.019180592718637653,
+        "null_std": 0.07033367513775328,
+        "p_value": 2.5277954755635336e-05,
+        "significant": true
+      }
+    },
+    "Infiltration": {
+      "trained": {
+        "mean": 0.026705935805027062,
+        "std": 0.053227491253630646,
+        "n": 15
+      },
+      "untrained": {
+        "n": 15,
+        "real_mean": 0.026705935805027062,
+        "real_std": 0.053227491253630646,
+        "null_mean": 0.048800702098136146,
+        "null_std": 0.1392143373561668,
+        "p_value": 0.9209993434945692,
+        "significant": false
+      },
+      "randomized_weights": {
+        "n": 15,
+        "real_mean": 0.026705935805027062,
+        "real_std": 0.053227491253630646,
+        "null_mean": 0.01541263823552678,
+        "null_std": 0.023066312704581954,
+        "p_value": 0.41632470768224905,
+        "significant": false
+      },
+      "random_cam": {
+        "n": 15,
+        "real_mean": 0.026705935805027062,
+        "real_std": 0.053227491253630646,
+        "null_mean": 0.01741781726789971,
+        "null_std": 0.013377886093724908,
+        "p_value": 0.9377796588709,
+        "significant": false
+      }
+    },
+    "Pleural thickening": {
+      "trained": {
+        "mean": 0.0035811245427623817,
+        "std": 0.010220805799103507,
+        "n": 64
+      },
+      "untrained": {
+        "n": 64,
+        "real_mean": 0.0035811245427623817,
+        "real_std": 0.010220805799103507,
+        "null_mean": 0.010800050123393135,
+        "null_std": 0.06793317155885702,
+        "p_value": 3.108304584189691e-07,
+        "significant": true
+      },
+      "randomized_weights": {
+        "n": 64,
+        "real_mean": 0.0035811245427623817,
+        "real_std": 0.010220805799103507,
+        "null_mean": 0.001512993243522942,
+        "null_std": 0.006069386663085276,
+        "p_value": 8.801671782363112e-10,
+        "significant": true
+      },
+      "random_cam": {
+        "n": 64,
+        "real_mean": 0.0035811245427623817,
+        "real_std": 0.010220805799103507,
+        "null_mean": 0.012074494938588032,
+        "null_std": 0.06183878649837194,
+        "p_value": 0.9999956338450997,
+        "significant": false
+      }
+    },
+    "Pulmonary fibrosis": {
+      "trained": {
+        "mean": 0.015580770549628429,
+        "std": 0.025093428031604106,
+        "n": 38
+      },
+      "untrained": {
+        "n": 38,
+        "real_mean": 0.015580770549628429,
+        "real_std": 0.025093428031604106,
+        "null_mean": 0.04404710779051943,
+        "null_std": 0.11282669390059395,
+        "p_value": 0.9907038511140904,
+        "significant": false
+      },
+      "randomized_weights": {
+        "n": 38,
+        "real_mean": 0.015580770549628429,
+        "real_std": 0.025093428031604106,
+        "null_mean": 0.04311696418809381,
+        "null_std": 0.11920194004768313,
+        "p_value": 0.9634720663960709,
+        "significant": false
+      },
+      "random_cam": {
+        "n": 38,
+        "real_mean": 0.015580770549628429,
+        "real_std": 0.025093428031604106,
+        "null_mean": 0.03907492016285113,
+        "null_std": 0.12149308367044837,
+        "p_value": 0.89474043849327,
+        "significant": false
+      }
+    },
+    "Cardiomegaly": {
+      "trained": {
+        "mean": 0.2623892379220036,
+        "std": 0.2672253097611962,
+        "n": 76
+      },
+      "untrained": {
+        "n": 76,
+        "real_mean": 0.2623892379220036,
+        "real_std": 0.2672253097611962,
+        "null_mean": 0.03329221113237604,
+        "null_std": 0.07568058780062714,
+        "p_value": 6.555315792650662e-12,
+        "significant": true
+      },
+      "randomized_weights": {
+        "n": 76,
+        "real_mean": 0.2623892379220036,
+        "real_std": 0.2672253097611962,
+        "null_mean": 0.006564302297384098,
+        "null_std": 0.010359954524010808,
+        "p_value": 2.859402298984542e-21,
+        "significant": true
+      },
+      "random_cam": {
+        "n": 76,
+        "real_mean": 0.2623892379220036,
+        "real_std": 0.2672253097611962,
+        "null_mean": 0.05270647642349726,
+        "null_std": 0.09799877576622246,
+        "p_value": 1.9263825412707044e-09,
+        "significant": true
+      }
+    },
+    "Nodule/Mass": {
+      "trained": {
+        "mean": 0.003999470744217789,
+        "std": 0.011473093451188162,
+        "n": 23
+      },
+      "untrained": {
+        "n": 23,
+        "real_mean": 0.003999470744217789,
+        "real_std": 0.011473093451188162,
+        "null_mean": 0.002328810781285068,
+        "null_std": 0.004997483262156119,
+        "p_value": 0.8892858133753334,
+        "significant": false
+      },
+      "randomized_weights": {
+        "n": 23,
+        "real_mean": 0.003999470744217789,
+        "real_std": 0.011473093451188162,
+        "null_mean": 0.01016172067295923,
+        "null_std": 0.01610988347706936,
+        "p_value": 0.9999839975753826,
+        "significant": false
+      },
+      "random_cam": {
+        "n": 23,
+        "real_mean": 0.003999470744217789,
+        "real_std": 0.011473093451188162,
+        "null_mean": 0.030042910282171088,
+        "null_std": 0.10387969386700262,
+        "p_value": 0.9999740517623608,
+        "significant": false
+      }
+    },
+    "Other lesion": {
+      "trained": {
+        "mean": 0.036169992033636286,
+        "std": 0.09687298316193939,
+        "n": 31
+      },
+      "untrained": {
+        "n": 31,
+        "real_mean": 0.036169992033636286,
+        "real_std": 0.09687298316193939,
+        "null_mean": 0.020855257565750844,
+        "null_std": 0.03009274431402705,
+        "p_value": 0.9973908836689321,
+        "significant": false
+      },
+      "randomized_weights": {
+        "n": 31,
+        "real_mean": 0.036169992033636286,
+        "real_std": 0.09687298316193939,
+        "null_mean": 0.06255087702125058,
+        "null_std": 0.14766601287072167,
+        "p_value": 0.999472300646768,
+        "significant": false
+      },
+      "random_cam": {
+        "n": 31,
+        "real_mean": 0.036169992033636286,
+        "real_std": 0.09687298316193939,
+        "null_mean": 0.07463516449441217,
+        "null_std": 0.16658746577748476,
+        "p_value": 0.9994167941736201,
+        "significant": false
+      }
+    },
+    "Pleural effusion": {
+      "trained": {
+        "mean": 0.14615336471901433,
+        "std": 0.2675241455107444,
+        "n": 28
+      },
+      "untrained": {
+        "n": 28,
+        "real_mean": 0.14615336471901433,
+        "real_std": 0.2675241455107444,
+        "null_mean": 0.017998574281331718,
+        "null_std": 0.03594041457863749,
+        "p_value": 0.5618763634892969,
+        "significant": false
+      },
+      "randomized_weights": {
+        "n": 28,
+        "real_mean": 0.14615336471901433,
+        "real_std": 0.2675241455107444,
+        "null_mean": 0.0560384141322824,
+        "null_std": 0.16244861567847982,
+        "p_value": 0.7671409503966429,
+        "significant": false
+      },
+      "random_cam": {
+        "n": 28,
+        "real_mean": 0.14615336471901433,
+        "real_std": 0.2675241455107444,
+        "null_mean": 0.0350688024336705,
+        "null_std": 0.11810044306209468,
+        "p_value": 0.7196936466063808,
+        "significant": false
+      }
+    },
+    "Lung Opacity": {
+      "trained": {
+        "mean": 0.08784784493252153,
+        "std": 0.19164195252581778,
+        "n": 27
+      },
+      "untrained": {
+        "n": 27,
+        "real_mean": 0.08784784493252153,
+        "real_std": 0.19164195252581778,
+        "null_mean": 0.014794761217975369,
+        "null_std": 0.0202304805929476,
+        "p_value": 0.10022054990087803,
+        "significant": false
+      },
+      "randomized_weights": {
+        "n": 27,
+        "real_mean": 0.08784784493252153,
+        "real_std": 0.19164195252581778,
+        "null_mean": 0.04618324477363516,
+        "null_std": 0.09744920691488607,
+        "p_value": 0.7662811567198985,
+        "significant": false
+      },
+      "random_cam": {
+        "n": 27,
+        "real_mean": 0.08784784493252153,
+        "real_std": 0.19164195252581778,
+        "null_mean": 0.03962524666416424,
+        "null_std": 0.09639185777276736,
+        "p_value": 0.4861983176819436,
+        "significant": false
+      }
+    },
+    "Calcification": {
+      "trained": {
+        "mean": 0.002681675023632124,
+        "std": 0.006593878481643194,
+        "n": 10
+      },
+      "untrained": {
+        "n": 10,
+        "real_mean": 0.002681675023632124,
+        "real_std": 0.006593878481643194,
+        "null_mean": 0.06273889541625977,
+        "null_std": 0.1882166862487793,
+        "p_value": 0.19350627743622378,
+        "significant": false
+      },
+      "randomized_weights": {
+        "n": 10,
+        "real_mean": 0.002681675023632124,
+        "real_std": 0.006593878481643194,
+        "null_mean": 0.0,
+        "null_std": 0.0,
+        "p_value": 0.038936235738520404,
+        "significant": true
+      },
+      "random_cam": {
+        "n": 10,
+        "real_mean": 0.002681675023632124,
+        "real_std": 0.006593878481643194,
+        "null_mean": 0.0021330464267521167,
+        "null_std": 0.0019489875833656157,
+        "p_value": 0.9925117521211025,
+        "significant": false
+      }
+    },
+    "ILD": {
+      "trained": {
+        "mean": 0.1090499412578841,
+        "std": 0.19219354382184367,
+        "n": 12
+      },
+      "untrained": {
+        "n": 12,
+        "real_mean": 0.1090499412578841,
+        "real_std": 0.19219354382184367,
+        "null_mean": 0.15811702283099294,
+        "null_std": 0.21645477889970316,
+        "p_value": 0.9378134185032371,
+        "significant": false
+      },
+      "randomized_weights": {
+        "n": 12,
+        "real_mean": 0.1090499412578841,
+        "real_std": 0.19219354382184367,
+        "null_mean": 0.20359025911117593,
+        "null_std": 0.24643718298610692,
+        "p_value": 0.9615217440077347,
+        "significant": false
+      },
+      "random_cam": {
+        "n": 12,
+        "real_mean": 0.1090499412578841,
+        "real_std": 0.19219354382184367,
+        "null_mean": 0.14227883145213127,
+        "null_std": 0.21304685244763863,
+        "p_value": 0.904006440876437,
+        "significant": false
+      }
+    },
+    "Atelectasis": {
+      "trained": {
+        "mean": 0.008298653488357862,
+        "std": 0.011736068312670484,
+        "n": 3
+      },
+      "untrained": {
+        "n": 3,
+        "real_mean": 0.008298653488357862,
+        "real_std": 0.011736068312670484,
+        "null_mean": 0.21684492751955986,
+        "null_std": 0.2788262769994481,
+        "p_value": 0.9079806864017873,
+        "significant": false
+      },
+      "randomized_weights": {
+        "n": 3,
+        "real_mean": 0.008298653488357862,
+        "real_std": 0.011736068312670484,
+        "null_mean": 0.001033527737793823,
+        "null_std": 0.0007431309204634453,
+        "p_value": 0.6785825867545978,
+        "significant": false
+      },
+      "random_cam": {
+        "n": 3,
+        "real_mean": 0.008298653488357862,
+        "real_std": 0.011736068312670484,
+        "null_mean": 0.19908063858747482,
+        "null_std": 0.25841656847503036,
+        "p_value": 0.9079806864017873,
+        "significant": false
+      }
+    },
+    "Consolidation": {
+      "trained": {
+        "mean": 0.11161402296693268,
+        "std": 0.2309280975220868,
+        "n": 12
+      },
+      "untrained": {
+        "n": 12,
+        "real_mean": 0.11161402296693268,
+        "real_std": 0.2309280975220868,
+        "null_mean": 0.10717794975304666,
+        "null_std": 0.20716102387669702,
+        "p_value": 0.904006440876437,
+        "significant": false
+      },
+      "randomized_weights": {
+        "n": 12,
+        "real_mean": 0.11161402296693268,
+        "real_std": 0.2309280975220868,
+        "null_mean": 0.02298995660385117,
+        "null_std": 0.013840411494979658,
+        "p_value": 0.9303879115185666,
+        "significant": false
+      },
+      "random_cam": {
+        "n": 12,
+        "real_mean": 0.11161402296693268,
+        "real_std": 0.2309280975220868,
+        "null_mean": 0.017673000188854832,
+        "null_std": 0.010650581158659071,
+        "p_value": 0.8827305387133476,
+        "significant": false
+      }
+    },
+    "Pneumothorax": {
+      "trained": {
+        "mean": 0.0,
+        "std": 0.0,
+        "n": 4
+      },
+      "untrained": {
+        "n": 4,
+        "real_mean": 0.0,
+        "real_std": 0.0,
+        "null_mean": 0.005934467175393365,
+        "null_std": 0.006251451025698052,
+        "p_value": 0.9955292126070487,
+        "significant": false
+      },
+      "randomized_weights": {
+        "n": 4,
+        "real_mean": 0.0,
+        "real_std": 0.0,
+        "null_mean": 0.0024578649608884007,
+        "null_std": 0.0009467934350449723,
+        "p_value": 0.9955292126070487,
+        "significant": false
+      },
+      "random_cam": {
+        "n": 4,
+        "real_mean": 0.0,
+        "real_std": 0.0,
+        "null_mean": 0.00748082745121792,
+        "null_std": 0.00815407610974994,
+        "p_value": 0.9955292126070487,
+        "significant": false
+      }
+    }
+  }
+}

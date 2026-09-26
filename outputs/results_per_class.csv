@@ -1,0 +1,337 @@
+class,layer,method,metric,mean,std,count
+Aortic enlargement,layer3,grad_cam,distance,2.2765060565747874,1.1652274432378078,99
+Aortic enlargement,layer3,grad_cam,energy_box,0.03944821977868322,0.03302887743570607,99
+Aortic enlargement,layer3,grad_cam,iou,0.03226576210705166,0.05403899586175321,99
+Aortic enlargement,layer3,grad_cam,pointing_game,0.0,0.0,99
+Aortic enlargement,layer3,grad_cam_plus_plus,distance,2.5586723908930713,1.289842036515812,99
+Aortic enlargement,layer3,grad_cam_plus_plus,energy_box,0.019881046311271265,0.011798161673320444,99
+Aortic enlargement,layer3,grad_cam_plus_plus,iou,0.022450281161582056,0.020280184126931857,99
+Aortic enlargement,layer3,grad_cam_plus_plus,pointing_game,0.0,0.0,99
+Aortic enlargement,layer3,xgrad_cam,distance,2.2752720411810805,1.1142080111877413,99
+Aortic enlargement,layer3,xgrad_cam,energy_box,0.036991752406307025,0.032770466556166396,99
+Aortic enlargement,layer3,xgrad_cam,iou,0.031255824813581606,0.055280447692606705,99
+Aortic enlargement,layer3,xgrad_cam,pointing_game,0.010101010101010102,0.10050378152592121,99
+Aortic enlargement,layer4,grad_cam,distance,1.3411536212607647,0.9902347300868565,99
+Aortic enlargement,layer4,grad_cam,energy_box,0.029403544293605973,0.025379173538033706,99
+Aortic enlargement,layer4,grad_cam,iou,0.050480750865641605,0.055260609842081754,99
+Aortic enlargement,layer4,grad_cam,pointing_game,0.050505050505050504,0.22009911374694655,99
+Aortic enlargement,layer4,grad_cam_plus_plus,distance,1.5263494225635004,0.822502502859906,99
+Aortic enlargement,layer4,grad_cam_plus_plus,energy_box,0.030634264903839144,0.02158329156666624,99
+Aortic enlargement,layer4,grad_cam_plus_plus,iou,0.06368023449216371,0.04599573453148453,99
+Aortic enlargement,layer4,grad_cam_plus_plus,pointing_game,0.04040404040404041,0.19790700347467466,99
+Aortic enlargement,layer4,xgrad_cam,distance,1.3411536212607647,0.9902347300868565,99
+Aortic enlargement,layer4,xgrad_cam,energy_box,0.029403543882477616,0.025379174699329137,99
+Aortic enlargement,layer4,xgrad_cam,iou,0.050480750865641605,0.055260609842081754,99
+Aortic enlargement,layer4,xgrad_cam,pointing_game,0.050505050505050504,0.22009911374694655,99
+Atelectasis,layer3,grad_cam,distance,1.689394148491111,1.2725927966434727,3
+Atelectasis,layer3,grad_cam,energy_box,0.014108928541342367,0.0110468109606736,3
+Atelectasis,layer3,grad_cam,iou,0.0,0.0,3
+Atelectasis,layer3,grad_cam,pointing_game,0.0,0.0,3
+Atelectasis,layer3,grad_cam_plus_plus,distance,2.4998576810423248,1.18925419401151,3
+Atelectasis,layer3,grad_cam_plus_plus,energy_box,0.053289504100878994,0.03776499466628328,3
+Atelectasis,layer3,grad_cam_plus_plus,iou,0.024135697788248398,0.025360076966630497,3
+Atelectasis,layer3,grad_cam_plus_plus,pointing_game,0.0,0.0,3
+Atelectasis,layer3,xgrad_cam,distance,1.1826080648916444,0.6812047159894798,3
+Atelectasis,layer3,xgrad_cam,energy_box,0.011650218938787732,0.004338796916591145,3
+Atelectasis,layer3,xgrad_cam,iou,0.00021436226476603335,0.0003712863338003015,3
+Atelectasis,layer3,xgrad_cam,pointing_game,0.0,0.0,3
+Atelectasis,layer4,grad_cam,distance,1.635354017841393,0.8894680881009002,3
+Atelectasis,layer4,grad_cam,energy_box,0.01659730573495227,0.02874737680169163,3
+Atelectasis,layer4,grad_cam,iou,0.0,0.0,3
+Atelectasis,layer4,grad_cam,pointing_game,0.0,0.0,3
+Atelectasis,layer4,grad_cam_plus_plus,distance,0.9608969377107233,0.9402213247911037,3
+Atelectasis,layer4,grad_cam_plus_plus,energy_box,0.09473373461514706,0.13189105784723826,3
+Atelectasis,layer4,grad_cam_plus_plus,iou,0.11971932401259737,0.19836930671137987,3
+Atelectasis,layer4,grad_cam_plus_plus,pointing_game,0.3333333333333333,0.5773502691896258,3
+Atelectasis,layer4,xgrad_cam,distance,1.635354017841393,0.8894680881009002,3
+Atelectasis,layer4,xgrad_cam,energy_box,0.0165973069767157,0.02874737895248899,3
+Atelectasis,layer4,xgrad_cam,iou,0.0,0.0,3
+Atelectasis,layer4,xgrad_cam,pointing_game,0.0,0.0,3
+Calcification,layer3,grad_cam,distance,9.7669317568867,8.99434052253201,10
+Calcification,layer3,grad_cam,energy_box,0.0029902590942583475,0.005690968835512337,10
+Calcification,layer3,grad_cam,iou,0.0,0.0,10
+Calcification,layer3,grad_cam,pointing_game,0.0,0.0,10
+Calcification,layer3,grad_cam_plus_plus,distance,12.385228698060104,12.77853224004585,10
+Calcification,layer3,grad_cam_plus_plus,energy_box,0.00388990445644588,0.003794487550591855,10
+Calcification,layer3,grad_cam_plus_plus,iou,0.0034083969308994397,0.004600748691203179,10
+Calcification,layer3,grad_cam_plus_plus,pointing_game,0.0,0.0,10
+Calcification,layer3,xgrad_cam,distance,9.533048295126896,9.208950920672306,10
+Calcification,layer3,xgrad_cam,energy_box,0.00242647947598013,0.0047995034261342434,10
+Calcification,layer3,xgrad_cam,iou,0.0,0.0,10
+Calcification,layer3,xgrad_cam,pointing_game,0.0,0.0,10
+Calcification,layer4,grad_cam,distance,10.29143942733584,13.443224780456195,10
+Calcification,layer4,grad_cam,energy_box,0.00536335143260656,0.013901118888018833,10
+Calcification,layer4,grad_cam,iou,0.01220285296440124,0.03858880931964552,10
+Calcification,layer4,grad_cam,pointing_game,0.0,0.0,10
+Calcification,layer4,grad_cam_plus_plus,distance,5.929528596016908,6.59055482531508,10
+Calcification,layer4,grad_cam_plus_plus,energy_box,0.006032432642677988,0.006679539050669418,10
+Calcification,layer4,grad_cam_plus_plus,iou,0.00873326034052295,0.013494650569951106,10
+Calcification,layer4,grad_cam_plus_plus,pointing_game,0.0,0.0,10
+Calcification,layer4,xgrad_cam,distance,10.29143942733584,13.443224780456195,10
+Calcification,layer4,xgrad_cam,energy_box,0.00536334742791949,0.01390110511993822,10
+Calcification,layer4,xgrad_cam,iou,0.01220285296440124,0.03858880931964552,10
+Calcification,layer4,xgrad_cam,pointing_game,0.0,0.0,10
+Cardiomegaly,layer3,grad_cam,distance,0.5320054946042565,0.4447505510068077,76
+Cardiomegaly,layer3,grad_cam,energy_box,0.1183837719175866,0.059775563271026594,76
+Cardiomegaly,layer3,grad_cam,iou,0.13524875855747312,0.10199959499355314,76
+Cardiomegaly,layer3,grad_cam,pointing_game,0.3157894736842105,0.4679181214924814,76
+Cardiomegaly,layer3,grad_cam_plus_plus,distance,1.2431758306294762,0.37230438155628376,76
+Cardiomegaly,layer3,grad_cam_plus_plus,energy_box,0.06467916240523516,0.024654051176946863,76
+Cardiomegaly,layer3,grad_cam_plus_plus,iou,0.06217250776918306,0.03042390688833605,76
+Cardiomegaly,layer3,grad_cam_plus_plus,pointing_game,0.02631578947368421,0.16113631583445662,76
+Cardiomegaly,layer3,xgrad_cam,distance,0.5643177232413323,0.5328357545789912,76
+Cardiomegaly,layer3,xgrad_cam,energy_box,0.10917693052722725,0.05310232651429799,76
+Cardiomegaly,layer3,xgrad_cam,iou,0.14471730202632513,0.1011996379611893,76
+Cardiomegaly,layer3,xgrad_cam,pointing_game,0.27631578947368424,0.45014617508912413,76
+Cardiomegaly,layer4,grad_cam,distance,0.4684356099835363,0.35944109515353284,76
+Cardiomegaly,layer4,grad_cam,energy_box,0.13004163504994812,0.07644290131099198,76
+Cardiomegaly,layer4,grad_cam,iou,0.17979902680618623,0.12144649582477539,76
+Cardiomegaly,layer4,grad_cam,pointing_game,0.39473684210526316,0.49204193231664173,76
+Cardiomegaly,layer4,grad_cam_plus_plus,distance,0.3646044593958677,0.37652720556340263,76
+Cardiomegaly,layer4,grad_cam_plus_plus,energy_box,0.1288937757674016,0.042953698735526104,76
+Cardiomegaly,layer4,grad_cam_plus_plus,iou,0.25380729481970005,0.09277432125164445,76
+Cardiomegaly,layer4,grad_cam_plus_plus,pointing_game,0.47368421052631576,0.5026246899500345,76
+Cardiomegaly,layer4,xgrad_cam,distance,0.4684356099835363,0.35944109515353284,76
+Cardiomegaly,layer4,xgrad_cam,energy_box,0.13004163022177584,0.07644290138289513,76
+Cardiomegaly,layer4,xgrad_cam,iou,0.17979902680618623,0.12144649582477539,76
+Cardiomegaly,layer4,xgrad_cam,pointing_game,0.39473684210526316,0.49204193231664173,76
+Consolidation,layer3,grad_cam,distance,2.0669524754174686,1.2981504154001504,12
+Consolidation,layer3,grad_cam,energy_box,0.045411763987431165,0.05290362885213776,12
+Consolidation,layer3,grad_cam,iou,0.03919929452240466,0.060452314651885164,12
+Consolidation,layer3,grad_cam,pointing_game,0.08333333333333333,0.28867513459481287,12
+Consolidation,layer3,grad_cam_plus_plus,distance,3.386700681623966,2.186383965120262,12
+Consolidation,layer3,grad_cam_plus_plus,energy_box,0.03369714554476858,0.022579471765558957,12
+Consolidation,layer3,grad_cam_plus_plus,iou,0.029750568501185595,0.027390321617652934,12
+Consolidation,layer3,grad_cam_plus_plus,pointing_game,0.0,0.0,12
+Consolidation,layer3,xgrad_cam,distance,1.7946295567520838,1.3018447766053132,12
+Consolidation,layer3,xgrad_cam,energy_box,0.04150013302569274,0.047007245675039964,12
+Consolidation,layer3,xgrad_cam,iou,0.03581093531101941,0.05444158928850986,12
+Consolidation,layer3,xgrad_cam,pointing_game,0.08333333333333333,0.28867513459481287,12
+Consolidation,layer4,grad_cam,distance,2.2781085976768987,2.0721832776192364,12
+Consolidation,layer4,grad_cam,energy_box,0.05656137150678354,0.10213705951345879,12
+Consolidation,layer4,grad_cam,iou,0.05246793944388626,0.11159065161413381,12
+Consolidation,layer4,grad_cam,pointing_game,0.16666666666666666,0.38924947208076155,12
+Consolidation,layer4,grad_cam_plus_plus,distance,1.0697871035703406,1.1687983230079264,12
+Consolidation,layer4,grad_cam_plus_plus,energy_box,0.058347051342328336,0.044830354396185386,12
+Consolidation,layer4,grad_cam_plus_plus,iou,0.11359701334731652,0.12038463476914096,12
+Consolidation,layer4,grad_cam_plus_plus,pointing_game,0.3333333333333333,0.4923659639173309,12
+Consolidation,layer4,xgrad_cam,distance,2.2781085976768987,2.0721832776192364,12
+Consolidation,layer4,xgrad_cam,energy_box,0.05656138080985326,0.10213708427506815,12
+Consolidation,layer4,xgrad_cam,iou,0.05246793944388626,0.11159065161413381,12
+Consolidation,layer4,xgrad_cam,pointing_game,0.16666666666666666,0.38924947208076155,12
+ILD,layer3,grad_cam,distance,0.877148878866949,0.6049762281195907,12
+ILD,layer3,grad_cam,energy_box,0.10285551442454255,0.07780348888827696,12
+ILD,layer3,grad_cam,iou,0.05398853794516371,0.053106906969148486,12
+ILD,layer3,grad_cam,pointing_game,0.25,0.4522670168666455,12
+ILD,layer3,grad_cam_plus_plus,distance,1.1820057486906024,0.44004613937222564,12
+ILD,layer3,grad_cam_plus_plus,energy_box,0.1092590618257721,0.07184348586009595,12
+ILD,layer3,grad_cam_plus_plus,iou,0.07045404644062118,0.06191812889761226,12
+ILD,layer3,grad_cam_plus_plus,pointing_game,0.0,0.0,12
+ILD,layer3,xgrad_cam,distance,0.9629640639349897,0.39113185546915674,12
+ILD,layer3,xgrad_cam,energy_box,0.09767681616358455,0.09968539479323284,12
+ILD,layer3,xgrad_cam,iou,0.0175223771560316,0.023159765593808248,12
+ILD,layer3,xgrad_cam,pointing_game,0.16666666666666666,0.38924947208076144,12
+ILD,layer4,grad_cam,distance,1.0308924191893303,0.6555214884928583,12
+ILD,layer4,grad_cam,energy_box,0.13476659543812272,0.17917797513346886,12
+ILD,layer4,grad_cam,iou,0.031180589537446676,0.050112256292996475,12
+ILD,layer4,grad_cam,pointing_game,0.08333333333333333,0.2886751345948129,12
+ILD,layer4,grad_cam_plus_plus,distance,0.6443565391502084,0.4430840712093184,12
+ILD,layer4,grad_cam_plus_plus,energy_box,0.1583878509700298,0.1310589485148796,12
+ILD,layer4,grad_cam_plus_plus,iou,0.15000509408613044,0.11073528565788025,12
+ILD,layer4,grad_cam_plus_plus,pointing_game,0.4166666666666667,0.5149286505444373,12
+ILD,layer4,xgrad_cam,distance,1.0308924191893303,0.6555214884928583,12
+ILD,layer4,xgrad_cam,energy_box,0.13476658115784326,0.17917792372109217,12
+ILD,layer4,xgrad_cam,iou,0.031180589537446676,0.050112256292996475,12
+ILD,layer4,xgrad_cam,pointing_game,0.08333333333333333,0.2886751345948129,12
+Infiltration,layer3,grad_cam,distance,1.759977221800375,0.9905586627782954,15
+Infiltration,layer3,grad_cam,energy_box,0.028708397389467125,0.039489438875489134,15
+Infiltration,layer3,grad_cam,iou,0.018344603797110393,0.036251204491739304,15
+Infiltration,layer3,grad_cam,pointing_game,0.0,0.0,15
+Infiltration,layer3,grad_cam_plus_plus,distance,3.0729956943240353,2.544908722422322,15
+Infiltration,layer3,grad_cam_plus_plus,energy_box,0.03217389310399687,0.025517107031796073,15
+Infiltration,layer3,grad_cam_plus_plus,iou,0.028344506708284166,0.025753940853184786,15
+Infiltration,layer3,grad_cam_plus_plus,pointing_game,0.0,0.0,15
+Infiltration,layer3,xgrad_cam,distance,2.3487723731121033,1.3444260550407374,15
+Infiltration,layer3,xgrad_cam,energy_box,0.02246424236655,0.03928254354067459,15
+Infiltration,layer3,xgrad_cam,iou,0.012279991370936227,0.02973793005042835,15
+Infiltration,layer3,xgrad_cam,pointing_game,0.0,0.0,15
+Infiltration,layer4,grad_cam,distance,1.9382641043288324,1.5146504385290525,15
+Infiltration,layer4,grad_cam,energy_box,0.05341187203691027,0.11019137643108741,15
+Infiltration,layer4,grad_cam,iou,0.030641397830913766,0.06037719913380634,15
+Infiltration,layer4,grad_cam,pointing_game,0.0,0.0,15
+Infiltration,layer4,grad_cam_plus_plus,distance,1.1915060477503367,0.7624180973297366,15
+Infiltration,layer4,grad_cam_plus_plus,energy_box,0.04665777549768483,0.04244420130699973,15
+Infiltration,layer4,grad_cam_plus_plus,iou,0.08083250255634383,0.08305853499889025,15
+Infiltration,layer4,grad_cam_plus_plus,pointing_game,0.06666666666666667,0.2581988897471611,15
+Infiltration,layer4,xgrad_cam,distance,1.9382641043288324,1.5146504385290525,15
+Infiltration,layer4,xgrad_cam,energy_box,0.0534118663636036,0.11019136756623475,15
+Infiltration,layer4,xgrad_cam,iou,0.030641397830913766,0.06037719913380634,15
+Infiltration,layer4,xgrad_cam,pointing_game,0.0,0.0,15
+Lung Opacity,layer3,grad_cam,distance,1.9709082199018744,1.331102702567467,27
+Lung Opacity,layer3,grad_cam,energy_box,0.053630689892021,0.09017863486959433,27
+Lung Opacity,layer3,grad_cam,iou,0.028563255526090913,0.05293390641484594,27
+Lung Opacity,layer3,grad_cam,pointing_game,0.1111111111111111,0.32025630761017426,27
+Lung Opacity,layer3,grad_cam_plus_plus,distance,3.544961136332046,1.9455578798334463,27
+Lung Opacity,layer3,grad_cam_plus_plus,energy_box,0.03953549657361921,0.04710841817141206,27
+Lung Opacity,layer3,grad_cam_plus_plus,iou,0.032003052836646166,0.03196205269886377,27
+Lung Opacity,layer3,grad_cam_plus_plus,pointing_game,0.0,0.0,27
+Lung Opacity,layer3,xgrad_cam,distance,1.769822135252818,1.1506601740891995,27
+Lung Opacity,layer3,xgrad_cam,energy_box,0.047950456005141646,0.072062058675285,27
+Lung Opacity,layer3,xgrad_cam,iou,0.026859918592014777,0.061496045513295225,27
+Lung Opacity,layer3,xgrad_cam,pointing_game,0.07407407407407407,0.26688025634181184,27
+Lung Opacity,layer4,grad_cam,distance,2.0526511619225114,1.5819929540994304,27
+Lung Opacity,layer4,grad_cam,energy_box,0.06458457437542228,0.09360823141724647,27
+Lung Opacity,layer4,grad_cam,iou,0.06725062198798963,0.12952944289841392,27
+Lung Opacity,layer4,grad_cam,pointing_game,0.1111111111111111,0.32025630761017426,27
+Lung Opacity,layer4,grad_cam_plus_plus,distance,1.3231507111511254,1.0754301375981954,27
+Lung Opacity,layer4,grad_cam_plus_plus,energy_box,0.0614444944593641,0.08123667505371167,27
+Lung Opacity,layer4,grad_cam_plus_plus,iou,0.09463645451749603,0.13287095235612537,27
+Lung Opacity,layer4,grad_cam_plus_plus,pointing_game,0.2222222222222222,0.4236592728681617,27
+Lung Opacity,layer4,xgrad_cam,distance,2.0526511619225114,1.5819929540994304,27
+Lung Opacity,layer4,xgrad_cam,energy_box,0.06458458465661988,0.09360821515988832,27
+Lung Opacity,layer4,xgrad_cam,iou,0.06725062198798963,0.12952944289841392,27
+Lung Opacity,layer4,xgrad_cam,pointing_game,0.1111111111111111,0.32025630761017426,27
+Nodule/Mass,layer3,grad_cam,distance,5.932369136099127,5.901920966809203,23
+Nodule/Mass,layer3,grad_cam,energy_box,0.014896450677591221,0.027264900481452813,23
+Nodule/Mass,layer3,grad_cam,iou,0.0037090288546017176,0.010730856568308182,23
+Nodule/Mass,layer3,grad_cam,pointing_game,0.0,0.0,23
+Nodule/Mass,layer3,grad_cam_plus_plus,distance,7.76830144012466,9.033146449458258,23
+Nodule/Mass,layer3,grad_cam_plus_plus,energy_box,0.01583572007534115,0.022636903612275328,23
+Nodule/Mass,layer3,grad_cam_plus_plus,iou,0.013911670938124022,0.016606961945844385,23
+Nodule/Mass,layer3,grad_cam_plus_plus,pointing_game,0.0,0.0,23
+Nodule/Mass,layer3,xgrad_cam,distance,6.58934344415953,8.274296494690228,23
+Nodule/Mass,layer3,xgrad_cam,energy_box,0.014434956415283022,0.025621619122289486,23
+Nodule/Mass,layer3,xgrad_cam,iou,0.0036771612383587134,0.012565346406059696,23
+Nodule/Mass,layer3,xgrad_cam,pointing_game,0.0,0.0,23
+Nodule/Mass,layer4,grad_cam,distance,6.899250779163663,8.803710303709611,23
+Nodule/Mass,layer4,grad_cam,energy_box,0.007998943921057091,0.02346190540372717,23
+Nodule/Mass,layer4,grad_cam,iou,0.0033115673324336133,0.013447609455224165,23
+Nodule/Mass,layer4,grad_cam,pointing_game,0.0,0.0,23
+Nodule/Mass,layer4,grad_cam_plus_plus,distance,6.152652797132146,9.99317665796501,23
+Nodule/Mass,layer4,grad_cam_plus_plus,energy_box,0.023458123012064944,0.03975991386795826,23
+Nodule/Mass,layer4,grad_cam_plus_plus,iou,0.03039511626728037,0.04912205959490061,23
+Nodule/Mass,layer4,grad_cam_plus_plus,pointing_game,0.08695652173913043,0.2881040655200304,23
+Nodule/Mass,layer4,xgrad_cam,distance,6.899250779163663,8.803710303709611,23
+Nodule/Mass,layer4,xgrad_cam,energy_box,0.007998944943012785,0.023461910564162993,23
+Nodule/Mass,layer4,xgrad_cam,iou,0.0033115673324336133,0.013447609455224165,23
+Nodule/Mass,layer4,xgrad_cam,pointing_game,0.0,0.0,23
+Other lesion,layer3,grad_cam,distance,2.9115108754238577,2.865896057815705,31
+Other lesion,layer3,grad_cam,energy_box,0.043115722942128426,0.054844146720976546,31
+Other lesion,layer3,grad_cam,iou,0.018319770378331005,0.02878885070757597,31
+Other lesion,layer3,grad_cam,pointing_game,0.03225806451612903,0.17960530202677488,31
+Other lesion,layer3,grad_cam_plus_plus,distance,3.4414372680004726,4.117521545657706,31
+Other lesion,layer3,grad_cam_plus_plus,energy_box,0.04969973791758675,0.06811790112787057,31
+Other lesion,layer3,grad_cam_plus_plus,iou,0.04115484991381242,0.06923290556593609,31
+Other lesion,layer3,grad_cam_plus_plus,pointing_game,0.0,0.0,31
+Other lesion,layer3,xgrad_cam,distance,3.0357378840682716,3.4020957636778677,31
+Other lesion,layer3,xgrad_cam,energy_box,0.040942236724790255,0.05268319424609367,31
+Other lesion,layer3,xgrad_cam,iou,0.008079197122565183,0.015891907547194203,31
+Other lesion,layer3,xgrad_cam,pointing_game,0.03225806451612903,0.17960530202677488,31
+Other lesion,layer4,grad_cam,distance,3.2259933844716864,4.833974736256055,31
+Other lesion,layer4,grad_cam,energy_box,0.04008192118659103,0.08995288337623848,31
+Other lesion,layer4,grad_cam,iou,0.012337247390420192,0.032852711613924744,31
+Other lesion,layer4,grad_cam,pointing_game,0.03225806451612903,0.17960530202677488,31
+Other lesion,layer4,grad_cam_plus_plus,distance,2.0692339807818403,2.8877453165340734,31
+Other lesion,layer4,grad_cam_plus_plus,energy_box,0.06035571780634078,0.07651558344854185,31
+Other lesion,layer4,grad_cam_plus_plus,iou,0.06967200381651276,0.07926865096263334,31
+Other lesion,layer4,grad_cam_plus_plus,pointing_game,0.0967741935483871,0.3005371535187643,31
+Other lesion,layer4,xgrad_cam,distance,3.2259933844716864,4.833974736256055,31
+Other lesion,layer4,xgrad_cam,energy_box,0.040081929034298074,0.0899529032902717,31
+Other lesion,layer4,xgrad_cam,iou,0.012337247390420192,0.032852711613924744,31
+Other lesion,layer4,xgrad_cam,pointing_game,0.03225806451612903,0.17960530202677488,31
+Pleural effusion,layer3,grad_cam,distance,5.5296916597302,4.7178399240975235,28
+Pleural effusion,layer3,grad_cam,energy_box,0.0795579259172468,0.16746070330077822,28
+Pleural effusion,layer3,grad_cam,iou,0.040061732471388355,0.07524023011686035,28
+Pleural effusion,layer3,grad_cam,pointing_game,0.14285714285714285,0.3563483225498992,28
+Pleural effusion,layer3,grad_cam_plus_plus,distance,6.11920624537652,5.740226983034344,28
+Pleural effusion,layer3,grad_cam_plus_plus,energy_box,0.032005015482094896,0.06073898986712354,28
+Pleural effusion,layer3,grad_cam_plus_plus,iou,0.024204420300000983,0.05246633228041417,28
+Pleural effusion,layer3,grad_cam_plus_plus,pointing_game,0.0,0.0,28
+Pleural effusion,layer3,xgrad_cam,distance,4.886894525987064,3.809943715889619,28
+Pleural effusion,layer3,xgrad_cam,energy_box,0.052798911093639864,0.1062137632225849,28
+Pleural effusion,layer3,xgrad_cam,iou,0.04921802720387597,0.10220831128924823,28
+Pleural effusion,layer3,xgrad_cam,pointing_game,0.07142857142857142,0.26226526415648105,28
+Pleural effusion,layer4,grad_cam,distance,4.108146527706742,4.036544436117492,28
+Pleural effusion,layer4,grad_cam,energy_box,0.07802101491506616,0.14589114378453408,28
+Pleural effusion,layer4,grad_cam,iou,0.08899509541723609,0.1632241505294744,28
+Pleural effusion,layer4,grad_cam,pointing_game,0.21428571428571427,0.41785544701867244,28
+Pleural effusion,layer4,grad_cam_plus_plus,distance,3.8067964796498965,3.3717508931784095,28
+Pleural effusion,layer4,grad_cam_plus_plus,energy_box,0.061822802499851295,0.1258047689469628,28
+Pleural effusion,layer4,grad_cam_plus_plus,iou,0.08733834569284225,0.17455383574242656,28
+Pleural effusion,layer4,grad_cam_plus_plus,pointing_game,0.17857142857142858,0.3900210277874798,28
+Pleural effusion,layer4,xgrad_cam,distance,4.108146527706742,4.036544436117492,28
+Pleural effusion,layer4,xgrad_cam,energy_box,0.07802101271239992,0.14589113428028147,28
+Pleural effusion,layer4,xgrad_cam,iou,0.08899509541723609,0.1632241505294744,28
+Pleural effusion,layer4,xgrad_cam,pointing_game,0.21428571428571427,0.41785544701867244,28
+Pleural thickening,layer3,grad_cam,distance,4.0775099164478,2.9022522906198898,64
+Pleural thickening,layer3,grad_cam,energy_box,0.0082078798110707,0.011469810842536385,64
+Pleural thickening,layer3,grad_cam,iou,0.0045931474560347765,0.01771663472032952,64
+Pleural thickening,layer3,grad_cam,pointing_game,0.0,0.0,64
+Pleural thickening,layer3,grad_cam_plus_plus,distance,4.435423621962158,3.9307366347816504,64
+Pleural thickening,layer3,grad_cam_plus_plus,energy_box,0.007504784854063422,0.008734532908066188,64
+Pleural thickening,layer3,grad_cam_plus_plus,iou,0.0047237447178076425,0.00630272617853887,64
+Pleural thickening,layer3,grad_cam_plus_plus,pointing_game,0.015625,0.125,64
+Pleural thickening,layer3,xgrad_cam,distance,4.007338630391337,3.085805676624019,64
+Pleural thickening,layer3,xgrad_cam,energy_box,0.008824767363787307,0.013132923659327844,64
+Pleural thickening,layer3,xgrad_cam,iou,0.004171810182015168,0.013840711205929241,64
+Pleural thickening,layer3,xgrad_cam,pointing_game,0.0,0.0,64
+Pleural thickening,layer4,grad_cam,distance,4.3196594049317065,3.0805272641773143,64
+Pleural thickening,layer4,grad_cam,energy_box,0.00716224943079166,0.02060320984536232,64
+Pleural thickening,layer4,grad_cam,iou,0.006210954590642353,0.03119040942203496,64
+Pleural thickening,layer4,grad_cam,pointing_game,0.0,0.0,64
+Pleural thickening,layer4,grad_cam_plus_plus,distance,3.560493904376539,2.321280528057483,64
+Pleural thickening,layer4,grad_cam_plus_plus,energy_box,0.008342055073626347,0.013394185932594367,64
+Pleural thickening,layer4,grad_cam_plus_plus,iou,0.006980317391935378,0.02163792336361112,64
+Pleural thickening,layer4,grad_cam_plus_plus,pointing_game,0.0,0.0,64
+Pleural thickening,layer4,xgrad_cam,distance,4.3196594049317065,3.0805272641773143,64
+Pleural thickening,layer4,xgrad_cam,energy_box,0.007162249335436823,0.020603208381653776,64
+Pleural thickening,layer4,xgrad_cam,iou,0.006210954590642353,0.03119040942203496,64
+Pleural thickening,layer4,xgrad_cam,pointing_game,0.0,0.0,64
+Pneumothorax,layer3,grad_cam,distance,5.317948190997458,3.0380704317682214,4
+Pneumothorax,layer3,grad_cam,energy_box,0.01845413236515013,0.021451430421021104,4
+Pneumothorax,layer3,grad_cam,iou,0.010661690961569523,0.012319941611453908,4
+Pneumothorax,layer3,grad_cam,pointing_game,0.0,0.0,4
+Pneumothorax,layer3,grad_cam_plus_plus,distance,6.392643459197329,4.897630687183224,4
+Pneumothorax,layer3,grad_cam_plus_plus,energy_box,0.01264958572573955,0.01601001594138609,4
+Pneumothorax,layer3,grad_cam_plus_plus,iou,0.00558359625574665,0.01058649179397713,4
+Pneumothorax,layer3,grad_cam_plus_plus,pointing_game,0.0,0.0,4
+Pneumothorax,layer3,xgrad_cam,distance,3.7266949316753983,2.433754455865735,4
+Pneumothorax,layer3,xgrad_cam,energy_box,0.014697296145740744,0.018436150671305676,4
+Pneumothorax,layer3,xgrad_cam,iou,0.005258871475234624,0.0061359316560345885,4
+Pneumothorax,layer3,xgrad_cam,pointing_game,0.0,0.0,4
+Pneumothorax,layer4,grad_cam,distance,5.4198889544538495,2.9804813486735613,4
+Pneumothorax,layer4,grad_cam,energy_box,0.0,0.0,4
+Pneumothorax,layer4,grad_cam,iou,0.0,0.0,4
+Pneumothorax,layer4,grad_cam,pointing_game,0.0,0.0,4
+Pneumothorax,layer4,grad_cam_plus_plus,distance,3.490988452273069,1.9527690356947374,4
+Pneumothorax,layer4,grad_cam_plus_plus,energy_box,0.010193500900641049,0.010495547066810131,4
+Pneumothorax,layer4,grad_cam_plus_plus,iou,0.00202402705326675,0.0040480541065335,4
+Pneumothorax,layer4,grad_cam_plus_plus,pointing_game,0.0,0.0,4
+Pneumothorax,layer4,xgrad_cam,distance,5.4198889544538495,2.9804813486735613,4
+Pneumothorax,layer4,xgrad_cam,energy_box,0.0,0.0,4
+Pneumothorax,layer4,xgrad_cam,iou,0.0,0.0,4
+Pneumothorax,layer4,xgrad_cam,pointing_game,0.0,0.0,4
+Pulmonary fibrosis,layer3,grad_cam,distance,3.7010845940538095,4.342465594823045,38
+Pulmonary fibrosis,layer3,grad_cam,energy_box,0.021832340380228705,0.03432284732123476,38
+Pulmonary fibrosis,layer3,grad_cam,iou,0.007779304893981455,0.023003147626824632,38
+Pulmonary fibrosis,layer3,grad_cam,pointing_game,0.0,0.0,38
+Pulmonary fibrosis,layer3,grad_cam_plus_plus,distance,4.8209878238164565,5.193022202714833,38
+Pulmonary fibrosis,layer3,grad_cam_plus_plus,energy_box,0.023696878302536358,0.027163502527494714,38
+Pulmonary fibrosis,layer3,grad_cam_plus_plus,iou,0.015831470094685482,0.028136627188458514,38
+Pulmonary fibrosis,layer3,grad_cam_plus_plus,pointing_game,0.0,0.0,38
+Pulmonary fibrosis,layer3,xgrad_cam,distance,3.3766014257996653,4.264368127558799,38
+Pulmonary fibrosis,layer3,xgrad_cam,energy_box,0.017228926522941324,0.026012050455388066,38
+Pulmonary fibrosis,layer3,xgrad_cam,iou,0.003940617837207871,0.00989512376506677,38
+Pulmonary fibrosis,layer3,xgrad_cam,pointing_game,0.02631578947368421,0.16222142113076252,38
+Pulmonary fibrosis,layer4,grad_cam,distance,3.6540145903228285,4.914679600985657,38
+Pulmonary fibrosis,layer4,grad_cam,energy_box,0.031161540774327867,0.05086053652523156,38
+Pulmonary fibrosis,layer4,grad_cam,iou,0.020739381054514314,0.04814267352643828,38
+Pulmonary fibrosis,layer4,grad_cam,pointing_game,0.0,0.0,38
+Pulmonary fibrosis,layer4,grad_cam_plus_plus,distance,3.058369856562409,5.009730061920657,38
+Pulmonary fibrosis,layer4,grad_cam_plus_plus,energy_box,0.030868486122447976,0.03080737868121999,38
+Pulmonary fibrosis,layer4,grad_cam_plus_plus,iou,0.041286390223448426,0.04483375236969779,38
+Pulmonary fibrosis,layer4,grad_cam_plus_plus,pointing_game,0.10526315789473684,0.31101174777590485,38
+Pulmonary fibrosis,layer4,xgrad_cam,distance,3.6540145903228285,4.914679600985657,38
+Pulmonary fibrosis,layer4,xgrad_cam,energy_box,0.03116154071707757,0.05086053968793984,38
+Pulmonary fibrosis,layer4,xgrad_cam,iou,0.020739381054514314,0.04814267352643828,38
+Pulmonary fibrosis,layer4,xgrad_cam,pointing_game,0.0,0.0,38

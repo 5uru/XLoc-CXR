@@ -1,0 +1,18 @@
+{
+  "Aortic enlargement": 0.9721620678901672,
+  "Atelectasis": 0.947798490524292,
+  "Calcification": 0.877639651298523,
+  "Cardiomegaly": 0.9656296372413635,
+  "Consolidation": 0.9161553978919983,
+  "ILD": 0.885817289352417,
+  "Infiltration": 0.873205304145813,
+  "Lung Opacity": 0.9145299196243286,
+  "Nodule/Mass": 0.8802024722099304,
+  "Other lesion": 0.9097867012023926,
+  "Pleural effusion": 0.9433256387710571,
+  "Pleural thickening": 0.9307768940925598,
+  "Pneumothorax": 0.8944332599639893,
+  "Pulmonary fibrosis": 0.9100149273872375,
+  "No finding": 0.9782696962356567,
+  "MACRO": 0.919983156522115
+}
